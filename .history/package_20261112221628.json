@@ -1,0 +1,7 @@
+{
+    "name": "jerry-on-portfolio",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "npx serve public -p 3000"
+    }
+  }
